@@ -2,6 +2,9 @@
 
 Mi primer repositorio
 
-i love :icecream:
+I love :icecream:
 
-i love 🥔
+I love 🥔
+
+I love :cake:
+
